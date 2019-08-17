@@ -1,0 +1,2 @@
+FLASK_APP=test.py
+SECRET_KEY=HELLO World
